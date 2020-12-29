@@ -3,9 +3,8 @@ My Created Shaders in Unity and ShaderToy
 
 ## Unity
 ### Rainy Window Shader
-
-<img src ="https://github.com/Duotun/Shader-Collections/blob/main/Demos/Droplet_leaves.gif" height="30%" width="30%"> 
-<img src ="https://github.com/Duotun/Shader-Collections/blob/main/Demos/RainyWindow_leaves.gif" height="30%" width="30%">
+<img src ="https://github.com/Duotun/Shader-Collections/blob/main/Demos/Droplet_leaves.gif" height="40%" width="40%"> 
+<img src ="https://github.com/Duotun/Shader-Collections/blob/main/Demos/RainyWindow_leaves.gif" height="40%" width="40%">
 
 Reference: https://www.shadertoy.com/view/ltffzl
 
