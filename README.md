@@ -14,5 +14,5 @@ Reference: https://www.febucci.com/2018/09/dissolve-shader/
 
 ### Rainy Window Shader
 
-<img src ="https://github.com/Duotun/Shader-Collections/blob/main/Demos/Droplet_leaves.gif" height="40%" width="40%" style="float:left"> 
-<img src ="https://github.com/Duotun/Shader-Collections/blob/main/Demos/RainyWindow_leaves.gif" height="40%" width="40%" style="float:left">
+<img src ="https://github.com/Duotun/Shader-Collections/blob/main/Demos/Droplet_leaves.gif" height="40%" width="10%" style="float:left"> 
+<img src ="https://github.com/Duotun/Shader-Collections/blob/main/Demos/RainyWindow_leaves.gif" height="40%" width="10%" style="float:left">
